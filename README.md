@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BouncingElf10
-- 👀 I’m interested in coding and minecraft
-- 📫 How to reach me @BouncingElf10 on discord
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: idk man
+@BouncingElf10 on discord
+
+He/Him/His
+
+
