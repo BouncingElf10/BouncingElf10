@@ -12,7 +12,9 @@ Hey there im BouncingElf10, but most people call me elf. Im interested in a wide
 ---
 <div align="center">
   
-[![Discord](https://img.shields.io/badge/Discord-BouncingElf10-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/700684442368213062)
+  [![Discord](https://img.shields.io/badge/Discord-BouncingElf10-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/700684442368213062)
+  [![CurseForge](https://img.shields.io/badge/CurseForge-BouncingElf100-EF803F?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/bouncingelf100/projects)
+  [![Modrinth](https://img.shields.io/badge/Modrinth-BouncingElf10-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/BouncingElf10)
 
 </div>
 
