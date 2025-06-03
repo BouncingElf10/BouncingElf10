@@ -1,4 +1,4 @@
-Hey there im BouncingElf10, but most people call me elf. Im interested in a wide varaitry of video games and coding :D I hope you enjoy my work!
+Hey there I'm BouncingElf10, but most people call me Elf. Im interested in a wide varaitry of video games and coding :D I hope you enjoy my work!
 
 ---
 
@@ -8,7 +8,6 @@ Hey there im BouncingElf10, but most people call me elf. Im interested in a wide
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouncingElf10&layout=compact&theme=radical" />
 </div>
 
-
 ---
 <div align="center">
   
@@ -17,6 +16,5 @@ Hey there im BouncingElf10, but most people call me elf. Im interested in a wide
   [![Modrinth](https://img.shields.io/badge/Modrinth-BouncingElf10-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/BouncingElf10)
 
 </div>
-
 
 ---
