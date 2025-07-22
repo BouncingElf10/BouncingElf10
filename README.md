@@ -1,4 +1,4 @@
-Hey there I'm BouncingElf10, but most people call me Elf. Im interested in a wide varaitry of video games and coding :D I hope you enjoy my work!
+Hey there I'm BouncingElf10, but most people call me Elf. Im interested in a wide variety of video games and coding :D I hope you enjoy my work!
 
 ---
 
