@@ -7,7 +7,7 @@ Hey there I'm BouncingElf10, but most people call me Elf. Im interested in a wid
   <img src="https://placehold.co/69x1/transparent/transparent" width="120" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouncingElf10&layout=compact&theme=radical" />
 </div>
-
+idk why my most used language is html, it really isnt T_T
 ---
 <div align="center">
   
