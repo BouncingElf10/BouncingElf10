@@ -5,7 +5,7 @@ Hey there I'm BouncingElf10, but most people call me Elf. Im interested in a wid
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BouncingElf10&show_icons=true&theme=radical&hide_rank=true" />
   <img src="https://placehold.co/69x1/transparent/transparent" width="120" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouncingElf10&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouncingElf10&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5"/>
 </div>
 
 ---
