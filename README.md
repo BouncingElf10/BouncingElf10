@@ -18,4 +18,8 @@ Hey there I'm BouncingElf10, but most people call me Elf. Im interested in a wid
 
 </div>
 
+<div align="center">
+  Want to know more? Check me out @ <a href="https://bouncingelf10.com">bouncingelf10.com</a>
+</div>
+
 ---
